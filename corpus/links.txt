@@ -1,0 +1,3 @@
+marx_quotes.txt: https://www.marxists.org/archive/marx/works/subject/quotes/index.htm
+news1.txt: https://www.cnn.com/2019/05/26/europe/european-elections-a-mixed-message-for-europe-analysis-luke-mcgee-intl/index.html
+communist_manifesto_gutenberg.txt: http://www.gutenberg.org/files/61/61.txt
