@@ -1,1 +1,3 @@
-# marxovchain
+# MarxovChain
+
+Comedic communist-style text generator and Twitterbot based on a Markov Chain. Thus, Mar"x"ovChain (get it?). the Markov chain was trained with text mined from The Communist Manifesto, quotes by Karl Marx, quotes by Friedrich Engels, and quotes by Che Guevara. The trained model is combined with a news article accessed from NewsAPI, and a random text is generated which sounds like the context of the news article, but inevitably digress into a communist propaganda.
